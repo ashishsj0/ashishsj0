@@ -13,10 +13,11 @@ I am Ashish Sharma, pursuing M.Engg Software Engineering, and
 - Swift, Javascript (Node.js, React JS)
 
 ## Version Control
-Bitbucket GitHub
+- Bitbucket
+- GitHub
 
 ## Hobbies and other skills
-- 📸: instagram.com/explorer_aswe
+- 📸: www.instagram.com/explorer_aswe
 - 📹 Video Editing, VFX (Adobe Premiere Pro, Adobe After Effect)
 <!--
 - 😄 Pronouns: ...
