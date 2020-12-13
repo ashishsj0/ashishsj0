@@ -9,15 +9,15 @@ I am Ashish Sharma, pursuing M.Engg Software Engineering, and
 - 📫 How to reach me: www.linkedin.com/in/sjashish
 
 ## Tools & Languages
-Software Development: Visual Studio, XCode
-Swift - 
+- Software Development: Visual Studio, XCode
+- Swift, Javascript (Node.js, React JS)
 
 ## Version Control
 Bitbucket GitHub
 
 ## Hobbies and other skills
- 📸: instagram.com/explorer_aswe
- 📹 Video Editing, VFX (Adobe Premiere Pro, Adobe After Effect)
+- 📸: instagram.com/explorer_aswe
+- 📹 Video Editing, VFX (Adobe Premiere Pro, Adobe After Effect)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
