@@ -16,9 +16,6 @@ I am Ashish Sharma, M.Engg Software Engineering Graduate, and
 - Bitbucket
 - GitHub
 
-## Hobbies and other skills
-- 📸: www.instagram.com/explorer_aswe
-- 📹 Video Editing, VFX (Adobe Premiere Pro, Adobe After Effect)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
