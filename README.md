@@ -1,6 +1,7 @@
 ### Hi Visitor 👋
 
-Judging my git contributions? Feel free to judge my commit messages.
+Judging my git contributions? Here are a few from 01.25-07.25
+Feel free to judge my commit messages.
 
 <img width="1511" height="874" alt="Screenshot 2025-07-28 at 03 55 28" src="https://github.com/user-attachments/assets/e7b7666a-c533-4ad1-b534-04aa8952063d" />
 
@@ -8,6 +9,4 @@ Judging my git contributions? Feel free to judge my commit messages.
 
 <img width="720" height="622" alt="Screenshot 2025-07-28 at 03 59 48" src="https://github.com/user-attachments/assets/6fc02ff0-e4f7-4556-bfb7-43afae6204e1" />
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
