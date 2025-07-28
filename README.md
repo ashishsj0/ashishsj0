@@ -1,22 +1,13 @@
 ### Hi Visitor 👋
 
-I am Ashish Sharma, M.Engg Software Engineering Graduate, and 
-<!-- **ashishsj0/ashishsj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Judging my git contributions? Feel free to judge my commit messages.
 
-- 🔭 I’m currently working as an full time Sr. iOS-Dev.
-- 🌱 I’m also working on Swift UI, Full stack Web Development MERN Stack.
-- 👯 Reach out for anything related to computer applications. 
-- 📫 How to reach me: www.linkedin.com/in/sjashish
+<img width="1511" height="874" alt="Screenshot 2025-07-28 at 03 55 28" src="https://github.com/user-attachments/assets/e7b7666a-c533-4ad1-b534-04aa8952063d" />
 
-## Tools & Languages
-- Software Development: Visual Studio, XCode
-- Swift, Javascript (Node.js, React JS)
+<img width="1310" height="614" alt="Screenshot 2025-07-28 at 03 58 02" src="https://github.com/user-attachments/assets/57c6a579-0d79-4c60-bd14-5c697f3eb683" />
 
-## Version Control
-- Bitbucket
-- GitHub
+<img width="720" height="622" alt="Screenshot 2025-07-28 at 03 59 48" src="https://github.com/user-attachments/assets/6fc02ff0-e4f7-4556-bfb7-43afae6204e1" />
 
-<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
